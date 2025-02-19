@@ -162,9 +162,9 @@ MIT License
 ---
 
 ## **📌 お問い合わせ**
-開発者: **Your Name**  
+開発者: **須田優斗**  
 GitHub: [Your GitHub](https://github.com/your-profile)  
-お問い合わせ: **your-email@example.com**
+お問い合わせ: **yuto.suda1024@gmail.com**
 
 ---
 
